@@ -6,12 +6,35 @@ I’m the unlikely love child of Daria Morgendorffer and Alice in Wonderland - a
 
 Like 0.8% of the population, I’m a female INTJ. I’m a right-brained left-brain. I view the world like a game of chess and automatically deduce order from chaos. I live for solving problems. The more difficult the problem and the more terse it's solution, the better.
 
-Like 0.0002% of the population, I’m a Cambridge graduate with ADHD. I make lateral mental leaps fuelled by high-focus high-octane curiosity. My motto is ‘being insatiably curious can be curiously satisfying.’
+Like 0.0002% of the population, I’m a Cambridge graduate with ADHD. I make lateral mental leaps fuelled by high-focus high-octane curiosity. My motto is "being insatiably curious can be curiously satisfying."
 
-My three favorite questions are “Why?”, “What if? and “Does it work?”
+My three favorite questions are “Why?”, “What if?" and “Does it work?”
 
 For the past three years I have worked as an Advertising, Business and Innovation strategist. The problems I was solving initially seemed interesting, but then I was hit with a new problem - the problems were getting easier and easier. After unleashing MoneySupermarket's bootilicious Dave upon the world, I decided to call it quits as an Advertising Strategist. For a bit of fun and to buy some time whilst I figured out where I could find more difficult problems to solve, I worked with Charlie Brooker on his 2015 Wipe. 
 Having emerged relatively unscathed from the Makers Academy bootcamp, I'm now looking for my first role as a Junior Developer. I hope to work with others who are evangelical about clean code, TDD and pair programming, perhaps whilst picking up C# and C++.
+
+## What To Check Out On My Github
+
+#### LocalHost 
+
+A webapp that connects tourists to locals willing to show them around their hood.
+
+Built using:
+- Angular front-end
+- Google Maps API Wizardry
+- Rails back-end
+
+#### Opposing Views
+
+We found that many people would rather read news articles that reinforce their view of the world rather than challenge it. And so, we created a webapp that helps people to challenge their point of view by recommending news articles from news sources that have the opposite political leanining to those they have been reading. 
+
+How it works:
+It parses URLs that the user has read recently, extracting the news sources they have read articles from as well as frequent topic keywords. Through some back-end algorithmic crunching, we find a news source to suggest along with the top topic keyword to ensure that, for example, if you have been reading a lot of Daily Mail articles about immigration, you are connected to a Guardian article on immigration to balance your point of view. 
+
+Built Using:
+- Angular
+- Webhose API (to find news articles)
+- Rails back-end
 
 ## Things I can do (other than code)
 
@@ -45,7 +68,7 @@ Normally reserved for Strategists with 5 years experience in Advertising, I took
 
 ## "Ideas"
 
-Whatever "ideas" are, apparently I have a lot of them. I'm probably more pre-disposed to flexing my creative muscle. I enjoy a brainstorm and bouncing off other people to really push the limits of what an "idea" is (whatever an "idea" is anyway).  
+Whatever "ideas" are, apparently I have a lot of them (sometimes they're good). I'm pre-disposed to flexing my creative muscle. I enjoy a brainstorm and bouncing off other people to really push the limits of what an "idea" is (whatever an "idea" is anyway).  
 
 #### Where I Came Up With "Ideas"
 
