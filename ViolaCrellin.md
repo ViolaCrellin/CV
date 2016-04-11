@@ -13,19 +13,19 @@ My three favorite questions are “Why?”, “What if? and “Does it work?”
 For the past three years I have worked as an Advertising, Business and Innovation strategist. The problems I was solving initially seemed interesting, but then I was hit with a new problem - the problems were getting easier and easier. After unleashing MoneySupermarket's bootilicious Dave upon the world, I decided to call it quits as an Advertising Strategist. For a bit of fun and to buy some time whilst I figured out where I could find more difficult problems to solve, I worked with Charlie Brooker on his 2015 Wipe. 
 Having emerged relatively unscathed from the Makers Academy bootcamp, I'm now looking for my first role as a Junior Developer. I hope to work with others who are evangelical about clean code, TDD and pair programming, perhaps whilst picking up C# and C++.
 
-## Things I can do (other than code)
+#### Things I can do (other than code)
 
-#### "Strategy"
+## "Strategy"
 
 Whatever "strategy" is, people were willing to pay me to do it. I'm good at spotting an opportunity and plotting the best route to seize upon it. 
 
 ## Where I did "Strategy"
 
-**Redscout London ** (July to September 2015)    
+**Redscout London** (July to September 2015)    
 *Freelance Innovation Strategist*
 Developing new business proposals that led to winning global pieces of business, Godiva and Walgreens Boots Alliance. Developing Boots’ entire own-brand portfolio architecture and innovation framework. Developing research and innovation process for Time Delay.
 
-**Traces App ** (May to July 2015)    
+**Traces App** (May to July 2015)    
 *Freelance Business Development and Strategy*
 Feeding in on business development strategy, such as opportunities to monetize the platform and how to acquire users. Identifying business development opportunities, such as trade shows, PR contacts and brand and agency partnerships. Creating sales funnels and following through on opportunities. Streamlining user experience and brainstorming potential developments for the app at each new release.
 
@@ -59,9 +59,11 @@ My job was to find the funnies in the news to present to Charlie for his satrici
 *Chelsea School of Art, University of The Arts London* 
 I thought this would be more worthwhile than a gap year in East Asia. I was right. 
 
-## Education
+#### Education
 
-#### Makers Academy (January - April 2016)
+#### Learning To Code
+
+## Makers Academy (January - April 2016)
 
 Makers Academy's'extreme programming' agile environment aims to produce self-sufficient developers who are evangelical about best practices - because, lets face it, syntax can be looked up in the docs, best practices can't. 
 
@@ -88,7 +90,6 @@ I wrote my dissertation on neuroscience, LSD and '60s performance art focusing o
 
 ## French Intermediate Level 2 - Merit
 In order to write my dissertation I needed to brush up on my French!
-
 
 #### The Cheltenham Ladies' College 
 
