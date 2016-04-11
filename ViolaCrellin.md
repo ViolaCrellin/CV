@@ -11,6 +11,7 @@ Like 0.0002% of the population, I’m a Cambridge graduate with ADHD. I make lat
 My three favorite questions are “Why?”, “What if?" and “Does it work?”
 
 For the past three years I have worked as an Advertising, Business and Innovation strategist. The problems I was solving initially seemed interesting, but then I was hit with a new problem - the problems were getting easier and easier. After unleashing MoneySupermarket's bootilicious Dave upon the world, I decided to call it quits as an Advertising Strategist. For a bit of fun and to buy some time whilst I figured out where I could find more difficult problems to solve, I worked with Charlie Brooker on his 2015 Wipe. 
+
 Having emerged relatively unscathed from the Makers Academy bootcamp, I'm now looking for my first role as a Junior Developer. I hope to work with others who are evangelical about clean code, TDD and pair programming, perhaps whilst picking up C# and C++.
 
 ## What To Check Out On My Github
