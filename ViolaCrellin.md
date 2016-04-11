@@ -93,6 +93,7 @@ I thought this would be more worthwhile than a gap year in East Asia. I was righ
 Makers Academy's'extreme programming' agile environment aims to produce self-sufficient developers who are evangelical about best practices - because, lets face it, syntax can be looked up in the docs, best practices can't. 
 
 Take a look at my blog here => www.illogicode.wordpress.com/
+
 Mosey around my GitHub to see how far I've come => www.github.com/ViolaCrellin 
 
 - OOP, TDD, SOLID, MVC, DDD
