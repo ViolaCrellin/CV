@@ -13,13 +13,13 @@ My three favorite questions are “Why?”, “What if? and “Does it work?”
 For the past three years I have worked as an Advertising, Business and Innovation strategist. The problems I was solving initially seemed interesting, but then I was hit with a new problem - the problems were getting easier and easier. After unleashing MoneySupermarket's bootilicious Dave upon the world, I decided to call it quits as an Advertising Strategist. For a bit of fun and to buy some time whilst I figured out where I could find more difficult problems to solve, I worked with Charlie Brooker on his 2015 Wipe. 
 Having emerged relatively unscathed from the Makers Academy bootcamp, I'm now looking for my first role as a Junior Developer. I hope to work with others who are evangelical about clean code, TDD and pair programming, perhaps whilst picking up C# and C++.
 
-#### Things I can do (other than code)
+## Things I can do (other than code)
 
-## "Strategy"
+#### "Strategy"
 
 Whatever "strategy" is, people were willing to pay me to do it. I'm good at spotting an opportunity and plotting the best route to seize upon it. 
 
-## Where I did "Strategy"
+#### Where I did "Strategy"
 
 **Redscout London** (July to September 2015)    
 *Freelance Innovation Strategist*
@@ -38,32 +38,32 @@ MoneySupermarket.com: Contributed to campaign and amplification strategy, creati
 *Graduate Strategist* 
 Worked on EE and any tasks that came my way. Regrettably, I was poached by Mother after 3 weeks, after also turning down an offer to join JWT’s Account Planning Graduate Scheme.
 
-## Pieces of Paper (for Proof)
+#### Pieces of Paper (for Proof)
 
 **IPA Effectiveness - Distinction** (June 2015)   
 Normally reserved for Strategists with 5 years experience in Advertising, I took the test and surprised myself with the result. 
 
-#### "Ideas"
+## "Ideas"
 
 Whatever "ideas" are, apparently I have a lot of them. I'm probably more pre-disposed to flexing my creative muscle. I enjoy a brainstorm and bouncing off other people to really push the limits of what an "idea" is (whatever an "idea" is anyway).  
 
-## Where I Came Up With "Ideas"
+#### Where I Came Up With "Ideas"
 
 **Charlie Brooker's 2015 Wipe, House of Tomorrow, Zeppotron, Endemol Shine** (October 2015 to January 2016)   
 *Production Team, Archivist and Logger (a.k.a First Line Funny Filter)* 
 My job was to find the funnies in the news to present to Charlie for his satricial and acerbic commentary. It's not always the easiest job - the news isn't always hilarious. It involved being creative about how you could arrange clips and having a good eye for comedy. 
 
-## Pieces of Paper (for Proof)
+#### Pieces of Paper (for Proof)
 
 **Foundation Diploma Fine Art - Merit** (September 2008 to July 2009)   
 *Chelsea School of Art, University of The Arts London* 
 I thought this would be more worthwhile than a gap year in East Asia. I was right. 
 
-#### Education
+## Education
 
-#### Learning To Code
+## Learning To Code
 
-## Makers Academy (January - April 2016)
+#### Makers Academy (January - April 2016)
 
 Makers Academy's'extreme programming' agile environment aims to produce self-sufficient developers who are evangelical about best practices - because, lets face it, syntax can be looked up in the docs, best practices can't. 
 
@@ -76,9 +76,9 @@ Mosey around my GitHub to see how far I've come => www.github.com/ViolaCrellin
 - Rspec, Jasmine, Mocha
 - Create and consume RESTful APIs
 
-#### Trinity College, Cambridge University (September 2009 to July 2013)
+## Trinity College, Cambridge University (September 2009 to July 2013)
 
-## History of Art BA - 1st Class Honors
+#### History of Art BA - 1st Class Honors
 - Modernism
 - Post-Modernism
 - Surrealism
@@ -88,22 +88,23 @@ Mosey around my GitHub to see how far I've come => www.github.com/ViolaCrellin
 - Museumology and the Display of Art
 I wrote my dissertation on neuroscience, LSD and '60s performance art focusing on the work of Jean-Jacques Lebel. 
 
-## French Intermediate Level 2 - Merit
+#### French Intermediate Level 2 - Merit
 In order to write my dissertation I needed to brush up on my French!
 
-#### The Cheltenham Ladies' College 
+## The Cheltenham Ladies' College 
 
-I was the top academic scholar in my year - which my parents' bank account was duly grateful for. 
-## A Levels
+I was the top academic scholar in my year - which my parents' bank account was duly grateful for.
+
+#### A Levels
 - Mathematics - A
 - Further Mathematics - A
 - Economics - A
 - Art History - A
 - Fine Art & Design - A
 
-## Advanced Awards
+#### Advanced Awards
 - Advanced Extension Award, Economics - Distinction
 - FMSQ, Maths - A
 
-## GCSES
+#### GCSES
 - 8 A*'s and 2 A's
