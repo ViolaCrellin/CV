@@ -18,7 +18,8 @@ Having emerged relatively unscathed from the Makers Academy bootcamp, I'm now lo
 
 #### LocalHost 
 
-A webapp that connects tourists to locals willing to show them around their hood.
+A webapp that connects tourists to locals willing to show them around their hood. 
+Check it out here: http://local-host.herokuapp.com/
 
 Built using:
 - Angular front-end
