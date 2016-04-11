@@ -15,7 +15,7 @@ Having emerged relatively unscathed from the Makers Academy bootcamp, I'm now lo
 
 ## Things I can do (other than code)
 
-#### "Strategy"
+## "Strategy"
 
 Whatever "strategy" is, people were willing to pay me to do it. I'm good at spotting an opportunity and plotting the best route to seize upon it. 
 
